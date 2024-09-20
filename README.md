@@ -19,6 +19,19 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 
+<img src="https://profile-counter.glitch.me/malomouron/count.svg">
+
+
+
+
+
+
+
+
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/malomouron?tab=repositories)
+
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=malomouron&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -28,22 +41,27 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 
+
+
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/malomouron?tab=repositories)
-
-
-
-
-
 
 
 
 <div align=center>
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=malomouron&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=malomouron&theme=discord&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
 </div>
+
+
+
+
+
+
+
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/malomouron?tab=repositories)
+
 
 
 <div align="center">
@@ -56,6 +74,17 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   <a href="https://github.com/malomouron">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=malomouron&&theme=tokyonight" alt="malomouron" />
   </a>
+</p>
+
+
+
+
+
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/malomouron/malomouron/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
 
