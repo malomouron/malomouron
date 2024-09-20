@@ -32,6 +32,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/malomouron?tab=repositories)
 
 | App | <img src="https://skillicons.dev/icons?i=csharp,c++,dotnet,php,flutter,java,,react,python&perline=14" /> |
+| --- | --- |
 | Web | <img src="https://skillicons.dev/icons?i=csharp,c++,dotnet,php,flutter,java,,react,python&perline=14" /> |
 
 <div id="user-content-toc">
