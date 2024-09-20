@@ -1,10 +1,11 @@
 ## Salut 👋 Je suis Malo
 
+ <br><br>
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/malomouron?tab=repositories)
 
-
+<br><br>
 
 <img src="https://profile-counter.glitch.me/malomouron/count.svg">
 
@@ -26,9 +27,10 @@ Here are some ideas to get you started:
 
 
 
-
+<br><br>
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/malomouron?tab=repositories)
+<br><br>
 
 <div id="user-content-toc">
   <ul align="center">
@@ -54,10 +56,10 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 
-
+<br><br>
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/malomouron?tab=repositories)
-
+<br><br>
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=malomouron&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -69,10 +71,10 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 
-
+<br><br>
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/malomouron?tab=repositories)
-
+<br><br>
 
 
 <div align=center>
@@ -85,10 +87,10 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 
-
+<br><br>
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/malomouron?tab=repositories)
-
+<br><br>
 
 
 <div align="center">
