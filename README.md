@@ -31,6 +31,13 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/malomouron?tab=repositories)
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+
+
 | App | <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,java,py,unity&perline=14" /> |
 | --- | --- |
 | Web | <img src="https://skillicons.dev/icons?i=php,html,js,css,angular,ts,nodejs,npm&perline=14" /> |
@@ -41,17 +48,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 | Other | <img src="https://skillicons.dev/icons?i=git,github,discord,notion,stackoverflow&perline=14" /> |
 | Contact | <img src="https://skillicons.dev/icons?i=gmail,instagram,linkedin,twitter&perline=14" /> |
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=csharp,c++,dotnet,php,flutter,java,,react,python&perline=14" />
-  </a>
-</p>
 
 
 
@@ -107,18 +103,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=malomouron&&theme=tokyonight" alt="malomouron" />
   </a>
 </p>
-
-
-
-
-
-
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/malomouron/malomouron/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-
 
 
 
