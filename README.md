@@ -24,7 +24,17 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/malomouron?tab=repositories)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=malomouron&show_icons=true&locale=en" alt="malomouron">
+<div align="center">
+  <a href="https://github.com/malomouron">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=malomouron&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="malomouron"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malomouron&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="malomouron"/>
+  </a>
+</div>
+<p align="center">
+  <a href="https://github.com/malomouron">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=malomouron&&theme=tokyonight" alt="malomouron" />
+  </a>
+</p>
 
 
 
