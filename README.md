@@ -40,7 +40,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 <p align="center">
-  <table>
+  <table align="center">
     <tr>
       <th>App</th>
       <th><img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,java,py,unity&perline=14" /></th>
