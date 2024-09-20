@@ -1,4 +1,4 @@
-## Hi there 👋
+## Salut 👋 Je suis Malo
 
 <!--
 **malomouron/malomouron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/malomouron?tab=repositories)
+<a href="https://github.com/malomouron?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=malomouron&column=8&margin-w=15&margin-h=15" alt="malomouron"></a> 
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/malomouron?tab=repositories)
+
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/malomouron?tab=repositories)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=malomouron&show_icons=true&locale=en" alt="malomouron">
