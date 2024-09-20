@@ -35,9 +35,9 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 | --- | --- |
 | Web | <img src="https://skillicons.dev/icons?i=php,html,js,css,angular,ts,nodejs,npm&perline=14" /> |
 | Mobile | <img src="https://skillicons.dev/icons?i=flutter,react&perline=14" /> |
-| IDE | <img src="https://skillicons.dev/icons?i=idea,rider,visualstudio,phpstorm,pycharm,clion,vscode&perline=14" /> |
+| IDE | <img src="https://skillicons.dev/icons?i=idea,rider,phpstorm,pycharm,clion,visualstudio,vscode&perline=14" /> |
 | Devops | <img src="https://skillicons.dev/icons?i=docker,gradle&perline=14" /> |
-| Database | <img src="https://skillicons.dev/icons?i=firebase,mysql&perline=14" /> |
+| Database | <img src="https://skillicons.dev/icons?i=mysql,firebase&perline=14" /> |
 | Other | <img src="https://skillicons.dev/icons?i=git,github,discord,notion,stackoverflow&perline=14" /> |
 | Contact | <img src="https://skillicons.dev/icons?i=gmail,instagram,linkedin,twitter&perline=14" /> |
 
