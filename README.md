@@ -67,7 +67,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
     </tr>
     <tr>
       <td>Other</td>
-      <td><img src="https://skillicons.dev/icons?i=git,github,discord,notion,stackoverflow&perline=14" /></td>
+      <td><img src="https://skillicons.dev/icons?i=git,github,notion,stackoverflow&perline=14" /></td>
     </tr>
     <tr>
       <td>Contact</td>
@@ -83,6 +83,9 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
        </a>
        <a>
         <img src="https://skillicons.dev/icons?i=twitter&perline=14" />
+       </a>
+       <a>
+        <img src="https://skillicons.dev/icons?i=discord&perline=14" />
        </a>
       </td>
     </tr>
