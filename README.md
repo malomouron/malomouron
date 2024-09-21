@@ -78,7 +78,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
        <a>
         <img src="https://skillicons.dev/icons?i=instagram&perline=14" />
        </a>
-       <a href="https://www.linkedin.com/in/malo-mouron-785984294/">
+       <a href="https://www.linkedin.com/in/malo-mouron-785984294/" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin&perline=14" />
        </a>
        <a>
