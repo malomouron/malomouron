@@ -71,7 +71,20 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
     </tr>
     <tr>
       <td>Contact</td>
-      <td><img src="https://skillicons.dev/icons?i=gmail&perline=14" />, <img src="https://skillicons.dev/icons?i=instagram&perline=14" />, <img src="https://skillicons.dev/icons?i=linkedin&perline=14" />, <img src="https://skillicons.dev/icons?i=twitter&perline=14" /></td>
+      <td>
+       <a href="mailto:malo.mouron@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail&perline=14" />
+       </a>
+       <a>
+        <img src="https://skillicons.dev/icons?i=instagram&perline=14" />
+       </a>
+       <a href="https://www.linkedin.com/in/malo-mouron-785984294/">
+        <img src="https://skillicons.dev/icons?i=linkedin&perline=14" />
+       </a>
+       <a>
+        <img src="https://skillicons.dev/icons?i=twitter&perline=14" />
+       </a>
+      </td>
     </tr>
   </table>
 </p>
