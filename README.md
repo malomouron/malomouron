@@ -71,7 +71,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
     </tr>
     <tr>
       <td>Contact</td>
-      <td><img src="https://skillicons.dev/icons?i=gmail,instagram,linkedin,twitter&perline=14" /></td>
+      <td><img src="https://skillicons.dev/icons?i=gmail&perline=14" />, <img src="https://skillicons.dev/icons?i=instagram&perline=14" />, <img src="https://skillicons.dev/icons?i=linkedin&perline=14" />, <img src="https://skillicons.dev/icons?i=twitter&perline=14" /></td>
     </tr>
   </table>
 </p>
