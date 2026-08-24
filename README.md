@@ -15,7 +15,7 @@
   <tr>
     <td><strong>Languages & App</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=cs,cpp,c,dotnet,py,unity&perline=14" />
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,cpp,c,py,unity&perline=14" />
     </td>
   </tr>
   <tr>
