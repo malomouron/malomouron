@@ -21,7 +21,7 @@
   <tr>
     <td><strong>Web</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=php,ts,angular&perline=14" />
+      <img src="https://skillicons.dev/icons?i=angular,php,ts&perline=14" />
     </td>
   </tr>
   <tr>
