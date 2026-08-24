@@ -59,8 +59,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=malomouron&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malomouron&layout=compact&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github.com/malomouron/github-stats/blob/generated/overview.svg#gh-light-mode-only" />
+  <img height="165" src="https://github.com/malomouron/github-stats/blob/generated/languages.svg#gh-light-mode-only" />
 </p>
 
 ## Activity
