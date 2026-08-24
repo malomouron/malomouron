@@ -15,25 +15,25 @@
   <tr>
     <td><strong>Languages & App</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=cs,c,dotnet,java,py,unity&perline=14" />
+      <img src="https://skillicons.dev/icons?i=cs,c,dotnet,py,unity&perline=14" />
     </td>
   </tr>
   <tr>
     <td><strong>Web</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=php,html,css,js,ts,angular,nodejs,npm&perline=14" />
+      <img src="https://skillicons.dev/icons?i=php,ts,angular&perline=14" />
     </td>
   </tr>
   <tr>
     <td><strong>Mobile</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=flutter,react&perline=14" />
+      <img src="https://skillicons.dev/icons?i=java,kotlin,flutter,react&perline=14" />
     </td>
   </tr>
   <tr>
     <td><strong>IDE</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=idea,rider,phpstorm,pycharm,clion,visualstudio,vscode&perline=14" />
+      <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,rider,phpstorm&perline=14" />
     </td>
   </tr>
   <tr>
@@ -48,25 +48,13 @@
       <img src="https://skillicons.dev/icons?i=mysql,firebase&perline=14" />
     </td>
   </tr>
-  <tr>
-    <td><strong>Tools</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,notion,stackoverflow&perline=14" />
-    </td>
-  </tr>
 </table>
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github.com/malomouron/github-stats/blob/generated/overview.svg#gh-light-mode-only" />
-  <img height="165" src="https://github.com/malomouron/github-stats/blob/generated/languages.svg#gh-light-mode-only" />
-</p>
-
-## Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malomouron&hide_border=true" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=malomouron" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=malomouron" />
 </p>
 
 ## Contact
